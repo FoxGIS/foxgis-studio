@@ -1,5 +1,7 @@
 # foxgis-studio
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jingsam/foxgis-studio.svg)](https://greenkeeper.io/)
+
 > A web mapping editor
 
 ## Build Setup
